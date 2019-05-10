@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\C샵_Tesseract\C샵_Tesseract\bin\Debug\x86\liblept1753.dll
+C:\Users\user\source\repos\C샵_Tesseract\C샵_Tesseract\bin\Debug\x86\libtesseract3052.dll
+C:\Users\user\source\repos\C샵_Tesseract\C샵_Tesseract\bin\Debug\x64\liblept1753.dll
+C:\Users\user\source\repos\C샵_Tesseract\C샵_Tesseract\bin\Debug\x64\libtesseract3052.dll
+C:\Users\user\source\repos\C샵_Tesseract\C샵_Tesseract\bin\Debug\C샵_Tesseract.exe.config
+C:\Users\user\source\repos\C샵_Tesseract\C샵_Tesseract\bin\Debug\C샵_Tesseract.exe
+C:\Users\user\source\repos\C샵_Tesseract\C샵_Tesseract\bin\Debug\C샵_Tesseract.pdb
+C:\Users\user\source\repos\C샵_Tesseract\C샵_Tesseract\bin\Debug\Tesseract.dll
+C:\Users\user\source\repos\C샵_Tesseract\C샵_Tesseract\obj\Debug\C샵_Tesseract.csprojAssemblyReference.cache
+C:\Users\user\source\repos\C샵_Tesseract\C샵_Tesseract\obj\Debug\C샵_Tesseract.Properties.Resources.resources
+C:\Users\user\source\repos\C샵_Tesseract\C샵_Tesseract\obj\Debug\C샵_Tesseract.csproj.GenerateResource.cache
+C:\Users\user\source\repos\C샵_Tesseract\C샵_Tesseract\obj\Debug\C샵_Tesseract.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C샵_Tesseract\C샵_Tesseract\obj\Debug\C샵_Tesseract.csproj.CopyComplete
+C:\Users\user\source\repos\C샵_Tesseract\C샵_Tesseract\obj\Debug\C샵_Tesseract.exe
+C:\Users\user\source\repos\C샵_Tesseract\C샵_Tesseract\obj\Debug\C샵_Tesseract.pdb
+C:\Users\user\source\repos\C샵_Tesseract\C샵_Tesseract\obj\Debug\C샵_Tesseract.Form1.resources
